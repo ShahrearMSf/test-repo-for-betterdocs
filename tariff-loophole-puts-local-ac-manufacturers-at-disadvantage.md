@@ -47,6 +47,22 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The families of two Bangladeshi PhD students at the University of South Florida are mourning a double tragedy following confirmation that both have died under "deeply disturbing" circumstances.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Amid the grim discovery of Zamil Limon's remains and the reported death of Nahida Sultana Bristy, touching information has emerged of a couple who were planning to build a life together,&nbsp;<a href="https://edition.cnn.com/2026/04/24/us/usf-students-missing-dead?fbclid=IwY2xjawRZYpVleHRuA2FlbQIxMABicmlkETFOUGMzNXMzekVyZ3RaUjR5c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHryNsjCF38H-MwAx-PW2dHLDe421CDIeoZ5c3MCD9awA25BUaYlb0G6GxRvO_aem_pNO1iRTlWQeiIVCfNHcUnw" target="_blank" rel="noreferrer noopener">reports CNN</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Limon's brother, Zubaer Ahmed, revealed that the 27-year-old doctoral student had spoken highly of Bristy to his family in Bangladesh, confirming that the pair were courting and had actively discussed the possibility of marriage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>Under a statutory regulatory order issued on 29 May last year, the government fixed customs duty at 1% on capital machinery imports, alongside exemptions from VAT and supplementary duty. The incentive was designed to spur industrialisation by lowering the cost of setting up factories.</p>
 <!-- /wp:paragraph -->
 
