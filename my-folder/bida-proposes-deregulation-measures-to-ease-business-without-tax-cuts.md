@@ -2,7 +2,7 @@
 
 The Bangladesh Investment Development Authority (Bida) has recently submitted 20 deregulation proposals to the finance ministry, aiming to significantly ease doing business without reducing tax rates.
 
-The proposals, developed through a series of consultations with business leaders, focus on removing procedural bottlenecks, reducing compliance costs, and improving predictability in regulatory processes, Bida officials told The Business Standard. 
+The proposals, developed through a series of consultations with business leaders, focus on removing procedural bottlenecks, reducing compliance costs, and improving predictability in regulatory processes, Bida officials told The Business Standard.
 
 Business representatives believe that if implemented, the measures would lower operational expenses, save time, and boost investor confidence.
 
@@ -16,7 +16,6 @@ At present, companies are often subjected to repeated audits immediately after s
 Under the proposed system, the National Board of Revenue would use predefined risk parameters – such as abnormal fluctuations in turnover, inconsistencies in input-output ratios, and repeated refund claims – to automatically identify firms with a higher likelihood of tax evasion.
 
 This "automated audit selection" process would allow authorities to focus enforcement on high-risk cases while reducing pressure on compliant taxpayers.
-
 
 Reducing reliance on LCs, promoting digital trade
 
@@ -55,3 +54,5 @@ Addressing a consultative committee meeting organised by the NBR and the FBCCI l
 NBR Chairman Abdur Rahman Khan recently said the government is focusing not only on tax rates but also on simplifying business processes.
 
 "Our priority is to reduce unnecessary complexities and make compliance easier so that businesses can operate more efficiently," he said at a pre-budget discussion.
+
+Ashik bhai
