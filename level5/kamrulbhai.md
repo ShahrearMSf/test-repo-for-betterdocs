@@ -1,3 +1,7 @@
 <h1>Kamrulbhai</h1>
 
-kichu ekta
+<p>kichu ekta</p>
+
+<!-- wp:paragraph -->
+<p>kothin kichu</p>
+<!-- /wp:paragraph -->
