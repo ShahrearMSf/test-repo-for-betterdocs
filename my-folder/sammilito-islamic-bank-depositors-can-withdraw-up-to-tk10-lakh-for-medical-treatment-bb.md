@@ -15,7 +15,6 @@ Urging depositors to remain patient, he said, "Customers have shown sufficient p
 
 He added that the disbursement process initially began with a Tk2 lakh limit and is being gradually expanded. Steps are also underway to strengthen the bank's management.
 
-
 "The recruitment notice for appointing a managing director has been issued, and the process of appointing a chairman is ongoing. Once a decision is provided by the Ministry of Finance, Bangladesh Bank will implement it quickly," he said.
 
 Meanwhile, hundreds of customers of Sammilito Islamic Bank staged a protest in front of Bangladesh Bank today, demanding access to their deposits.
@@ -26,14 +25,11 @@ For some, the funds are needed for medical treatment, while others said the depo
 
 Depositors also opposed the central bank's decision to reduce profit rates for depositors of five merged banks for 2024 and 2025, and demanded its withdrawal along with the immediate normalisation of banking transactions.
 
-
 Economy / Top News
 Sammilito Islami Bank / Deposit accounts / cash withdrawal limit / Bangladesh Bank (BB)
 
-
 Comments
 While most comments will be posted if they are on-topic and not abusive, moderation decisions are subjective. Published comments are readers’ own views and The Business Standard does not endorse any of the readers’ comments.
-
 
 Top Stories
 BCB board led by Aminul dissolved; new ad hoc committee formed under Tamim
@@ -42,7 +38,6 @@ Logo of Sammilito Islami Bank. Photo: Courtesy
 Sammilito Islamic Bank depositors can withdraw up to Tk10 lakh for medical treatment: BB
 A charging port is seen on a Mercedes Benz EQC 400 4Matic electric vehicle at the Canadian International AutoShow in Toronto, Ontario, Canada, 13 February 2019. REUTERS/Mark Blinch
 Bangladesh lags in EV adoption despite global surge
-
 
 MOST VIEWED
 Illustration TBS
@@ -56,3 +51,5 @@ Industrial raw material prices soar on Mideast war
 Representational image: Photo: Collected
 Private credit growth drops to record low, near-term recovery unlikely
 Illustration: TBS
+
+Life sucks
