@@ -49,3 +49,6 @@ Banks are also struggling with rising non-performing loans, which climbed to a r
 High default levels have weakened bank capital positions, increased provisioning requirements, and made lenders more cautious in approving new loans.
 
 Liquidity pressures and slow deposit growth have further constrained lending capacity. In an effort to curb inflation, the central bank earlier raised its policy rate to 10%, pushing commercial lending rates close to 13.5% and discouraging businesses – especially small and medium enterprises – from taking new loans.
+
+
+Opacity count down test
