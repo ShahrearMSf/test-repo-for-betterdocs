@@ -28,3 +28,7 @@
 
 <h1>khuda lagce</h1>
 <p>ajke ache mojar mojar khabar</p>
+
+<!-- wp:paragraph -->
+<p>pet vore khaw</p>
+<!-- /wp:paragraph -->
