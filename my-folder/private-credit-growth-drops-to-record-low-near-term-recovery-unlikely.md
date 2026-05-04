@@ -21,6 +21,8 @@ He added, "Our investment outlook now largely depends on when the war ends. Even
 
 "Overall, the coming months will be quite challenging – particularly in terms of inflation, rising dollar exchange rates, and demand for export products."
 
+
+
 Private credit growth dips to record low at 6%
 The decline has been consistent in recent months, with growth recorded at 6.29% in September, 6.35% in August, 6.52% in July, 6.40% in June, 7.17% in May, and 7.5% in April. In contrast, private sector credit growth stood at 10.13% in July 2024 before dropping sharply following the political transition in August.
 
@@ -40,6 +42,7 @@ He noted that although high lending rates are a constraint, investors prioritise
 
 Persistent energy shortages and infrastructure bottlenecks, he said, have prevented both expansion by existing businesses and entry by new investors.
 
+
 Tight monetary policy strains banking sector, slows deposit and credit growth: Planning Commission report
 A major factor behind the slowdown in credit growth has been increased government borrowing from banks. Between July and 19 March of the 2025-26 fiscal year, net credit to the government reached Tk98,000 crore, equivalent to 94.73% of the revised annual target of Tk1.18 lakh crore.
 
@@ -48,3 +51,6 @@ Banks are also struggling with rising non-performing loans, which climbed to a r
 High default levels have weakened bank capital positions, increased provisioning requirements, and made lenders more cautious in approving new loans.
 
 Liquidity pressures and slow deposit growth have further constrained lending capacity. In an effort to curb inflation, the central bank earlier raised its policy rate to 10%, pushing commercial lending rates close to 13.5% and discouraging businesses – especially small and medium enterprises – from taking new loans.
+
+
+Opacity count down test
