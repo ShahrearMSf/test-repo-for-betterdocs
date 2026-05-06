@@ -1,6 +1,6 @@
 <h1>Orange economy jobs grow 237% in a decade, yet it lacks policy MSF</h1>
 
-<h2>Orange economy jobs grow 237% in a decade, yet it lacks policy</h2>
+<h2>Orange economy jobs grow 237% in a decade, yet it lacks policy msf</h2>
 
 
 <!-- wp:heading -->
