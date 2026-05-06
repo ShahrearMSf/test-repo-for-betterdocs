@@ -1,5 +1,8 @@
 <h1>Orange economy jobs grow 237% in a decade, yet it lacks policy</h1>
 
+<h2>Orange economy jobs grow 237% in a decade, yet it lacks policy</h2>
+
+
 <!-- wp:heading -->
 <h2 class="wp-block-heading">The surge comes despite the absence of any explicit policy push, suggesting that market demand, digital platforms and a growing freelance ecosystem are driving expansion on their own.</h2>
 <!-- /wp:heading -->
