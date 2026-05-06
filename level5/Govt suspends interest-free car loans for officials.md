@@ -1,0 +1,23 @@
+Govt suspends interest-free car loans for officials
+
+Under the existing policy, officials with the rank of deputy secretary and above are entitled to interest-free loans of up to Tk30 lakh to purchase vehicles.
+Illustration: TBS
+Illustration: TBS
+
+The government has suspended interest-free loans for purchasing vehicles for public servants as part of a series of austerity measures aimed at reducing state expenditure.
+
+The decision was taken at a Cabinet meeting held last night at the Jatiya Sangsad complex with Prime Minister Tarique Rahman in the chair.
+
+The decision was disclosed at a press briefing organised by the Cabinet Division on Friday.
+
+The Business Standard Google News Keep updated, follow The Business Standard's Google news channel
+Under the existing policy, officials with the rank of deputy secretary and above are entitled to interest-free loans of up to Tk30 lakh to purchase vehicles.
+
+They also receive a monthly allowance of Tk50,000 for maintenance and driver salary, along with an annual depreciation benefit of 10%.
+
+As part of the new measures, the Cabinet has suspended the loan facility. At the same time, all government-funded foreign training programmes were also kept on hold until further notice.
+
+It also decided to reduce domestic training-related costs by 50%, cut hospitality expenses for meetings and seminars by 50%, and lower seminar and conference expenses by 20%. Travel expenses will also be reduced by 30%, the briefing said.
+
+
+The measures are aimed at curbing government spending amid current economic pressures.
