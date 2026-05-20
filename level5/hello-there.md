@@ -3,3 +3,8 @@
 <!-- wp:paragraph -->
 <p>hi</p>
 <!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>hi</p>
+<!-- /wp:paragraph --><!-- wp:paragraph -->
+<p>hi</p>
+<!-- /wp:paragraph -->
