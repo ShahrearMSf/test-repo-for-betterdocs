@@ -100,3 +100,11 @@ Priority/Severity: Indicate the level of impact</code></pre>
 Adhering to these <span class="highlight">common QA guidelines</span> ensures that quality is built into the software development lifecycle. By following standardized procedures and emphasizing communication, documentation, and continuous improvement, the QA team drives product reliability and customer satisfaction. For further reference, consult resources such as the <a href="https://www.istqb.org/">ISTQB Glossary</a> and <a href="https://www.softwaretestinghelp.com/">Software Testing Help</a>.
 </p>
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Remote Pull Test Marker</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>REMOTE-EDIT-MARKER: this line was added directly on GitHub main (2026-07-16 16:34) to verify BetterDocs Git Sync fetch/diff/pull.</p>
+<!-- /wp:paragraph -->
