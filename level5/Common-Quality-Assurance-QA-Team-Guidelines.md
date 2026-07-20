@@ -7,7 +7,7 @@
 <!-- wp:paragraph -->
 <p>
 A <span class="highlight">Quality Assurance (QA) Team</span> plays an essential <span class="highlight">role</span> in ensuring that products meet defined standards before they reach customers. Common QA guidelines help align team efforts, promote best practices, and maintain consistency across projects. This documentation details the pivotal rules and expectations for QA team members, ensuring a unified and effective approach.
- [autosync-test-0720]</p>
+ [autosync-test-0720] [AUTOSYNC-LIVE2-1148]</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
