@@ -7,7 +7,7 @@
 <!-- wp:paragraph -->
 <p>
 A <span class="highlight">Quality Assurance (QA) Team</span> plays an essential <span class="highlight">role</span> in ensuring that products meet defined standards before they reach customers. Common QA guidelines help align team efforts, promote best practices, and maintain consistency across projects. This documentation details the pivotal rules and expectations for QA team members, ensuring a unified and effective approach.
-</p>
+ [autosync-test-0720]</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -109,5 +109,4 @@ Adhering to these <span class="highlight">common QA guidelines</span> ensures th
 <p>REMOTE-EDIT-MARKER: this line was added directly on GitHub main (2026-07-16 16:34) to verify BetterDocs Git Sync fetch/diff/pull.</p>
 <!-- /wp:paragraph -->
 
-
-<!-- PULL-TEST-MARKER-0720: edited on GitHub main to verify BetterDocs Fetch/Pull -->
+<p><!-- PULL-TEST-MARKER-0720: edited on GitHub main to verify BetterDocs Fetch/Pull --></p>
