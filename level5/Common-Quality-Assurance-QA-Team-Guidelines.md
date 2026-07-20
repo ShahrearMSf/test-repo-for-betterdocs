@@ -108,3 +108,6 @@ Adhering to these <span class="highlight">common QA guidelines</span> ensures th
 <!-- wp:paragraph -->
 <p>REMOTE-EDIT-MARKER: this line was added directly on GitHub main (2026-07-16 16:34) to verify BetterDocs Git Sync fetch/diff/pull.</p>
 <!-- /wp:paragraph -->
+
+
+<!-- PULL-TEST-MARKER-0720: edited on GitHub main to verify BetterDocs Fetch/Pull -->
