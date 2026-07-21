@@ -387,3 +387,6 @@
 <!-- wp:paragraph -->
 <p>Effective QA test cases for a WordPress plugin are clear, reproducible, and focused on user value and risk. Start with smoke and critical-path coverage, expand to compatibility and edge scenarios, and maintain the suite as the plugin evolves. Consistency and traceability will help your team release with confidence.</p>
 <!-- /wp:paragraph -->
+
+
+<!-- PULLTEST2-0721: second remote edit for Fetch/Pull verification -->
