@@ -1,6 +1,6 @@
 <h1>Update a book</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"put","path":"/books/{bookid}","refId":7670} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"put","path":"/books/{bookid}","refId":7679} /--><!-- wp:paragraph -->
 <p>Update fields on an existing book.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Path Parameters</h2>
