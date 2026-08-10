@@ -1,6 +1,6 @@
 <h1>List books</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"get","path":"/books","refId":7670} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"get","path":"/books","refId":7679} /--><!-- wp:paragraph -->
 <p>Returns a paginated list of books. Filter by genre.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Query Parameters</h2>
