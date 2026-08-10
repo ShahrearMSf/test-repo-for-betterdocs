@@ -1,6 +1,6 @@
 <h1>Get an author</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"get","path":"/authors/{authorid}","refId":7670} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"get","path":"/authors/{authorid}","refId":7679} /--><!-- wp:paragraph -->
 <p>Fetch a single author, with their books.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Path Parameters</h2>
