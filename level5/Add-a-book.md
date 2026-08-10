@@ -1,6 +1,6 @@
 <h1>Add a book</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"post","path":"/books","refId":7670} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"post","path":"/books","refId":7679} /--><!-- wp:paragraph -->
 <p>Create a new book.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Request Body</h2>
