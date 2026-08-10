@@ -1,6 +1,6 @@
 <h1>Get a book</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"get","path":"/books/{bookid}","refId":7670} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"get","path":"/books/{bookid}","refId":7679} /--><!-- wp:paragraph -->
 <p>Fetch a single book by its ID.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Path Parameters</h2>
