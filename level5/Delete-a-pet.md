@@ -1,6 +1,6 @@
 <h1>Delete a pet</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"delete","path":"/pets/{petId}","refId":7715} /--><!-- wp:heading -->
+<!-- wp:betterdocs/api-tryit {"method":"delete","path":"/pets/{petId}","refId":7733} /--><!-- wp:heading -->
 <h2 class="wp-block-heading">Path Parameters</h2>
 <!-- /wp:heading --><!-- wp:table {"className":"betterdocs-api-table"} -->
 <figure class="wp-block-table betterdocs-api-table"><table><thead><tr><th>Name</th><th>Type</th><th>Required</th><th>Description</th></tr></thead><tbody><tr><td><code>petId</code></td><td>integer (int64)</td><td><strong>Required</strong></td><td>ID of the pet</td></tr></tbody></table></figure>
