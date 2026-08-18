@@ -1,6 +1,6 @@
 <h1>Create a pet</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"post","path":"/pets","refId":7715} /--><!-- wp:heading -->
+<!-- wp:betterdocs/api-tryit {"method":"post","path":"/pets","refId":7733} /--><!-- wp:heading -->
 <h2 class="wp-block-heading">Request Body</h2>
 <!-- /wp:heading --><!-- wp:paragraph -->
 <p>Content type: <code>application/json</code> — <strong>required</strong></p>
@@ -20,4 +20,20 @@
 <h2 class="wp-block-heading">Code Samples</h2>
 <!-- /wp:heading --><!-- wp:betterdocs/code-snippet {"codeContent":"curl \u002d\u002drequest POST \u005c\n  \u002d\u002durl 'https://petstore.example.com/v1/pets' \u005c\n  \u002d\u002dheader 'Content-Type: application/json' \u005c\n  \u002d\u002ddata '{\n    \u0022name\u0022: \u0022Mochi\u0022,\n    \u0022tag\u0022: \u0022cat\u0022\n}'","language":"curl","showLanguageLabel":true,"showCopyButton":true,"showLineNumbers":false,"theme":"light","fileName":"cURL","codeVariants":[{"language":"javascript","codeContent":"const response = await fetch('https://petstore.example.com/v1/pets', {\n  method: 'POST',\n  headers: {\n    'Content-Type': 'application/json'\n  },\n  body: JSON.stringify({\n    \u0022name\u0022: \u0022Mochi\u0022,\n    \u0022tag\u0022: \u0022cat\u0022\n})\n});\n\nconst data = await response.json();\nconsole.log(data);"},{"language":"python","codeContent":"import requests\n\nheaders = {\n    \u0022Content-Type\u0022: \u0022application/json\u0022\n}\n\npayload = {\n    \u0022name\u0022: \u0022Mochi\u0022,\n    \u0022tag\u0022: \u0022cat\u0022\n}\n\nresponse = requests.post(\u0022https://petstore.example.com/v1/pets\u0022, headers=headers, json=payload)\n\nprint(response.json())"},{"language":"php","codeContent":"\u003c?php\n$curl = curl_init();\n\ncurl_setopt_array($curl, [\n  CURLOPT_URL =\u003e 'https://petstore.example.com/v1/pets',\n  CURLOPT_RETURNTRANSFER =\u003e true,\n  CURLOPT_CUSTOMREQUEST =\u003e 'POST',\n  CURLOPT_HTTPHEADER =\u003e [\n  'Content-Type: application/json'\n  ],\n  CURLOPT_POSTFIELDS =\u003e '{\n    \u0022name\u0022: \u0022Mochi\u0022,\n    \u0022tag\u0022: \u0022cat\u0022\n}',\n]);\n\n$response = curl_exec($curl);\ncurl_close($curl);\n\necho $response;"},{"language":"csharp","codeContent":"using System.Net.Http;\nusing System.Text;\n\nvar client = new HttpClient();\nvar request = new HttpRequestMessage(new HttpMethod(\u0022POST\u0022), \u0022https://petstore.example.com/v1/pets\u0022);\nrequest.Content = new StringContent(@\u0022{\n    \u0022\u0022name\u0022\u0022: \u0022\u0022Mochi\u0022\u0022,\n    \u0022\u0022tag\u0022\u0022: \u0022\u0022cat\u0022\u0022\n}\u0022, Encoding.UTF8, \u0022application/json\u0022);\nvar response = await client.SendAsync(request);\nvar body = await response.Content.ReadAsStringAsync();\nConsole.WriteLine(body);"},{"language":"java","codeContent":"import java.net.URI;\nimport java.net.http.*;\n\nHttpClient client = HttpClient.newHttpClient();\nHttpRequest request = HttpRequest.newBuilder()\n    .uri(URI.create(\u0022https://petstore.example.com/v1/pets\u0022))\n    .header(\u0022Content-Type\u0022, \u0022application/json\u0022)\n    .method(\u0022POST\u0022, HttpRequest.BodyPublishers.ofString(\u0022\u0022\u0022\n{\n    \u0022name\u0022: \u0022Mochi\u0022,\n    \u0022tag\u0022: \u0022cat\u0022\n}\n\u0022\u0022\u0022))\n    .build();\n\nHttpResponse\u003cString\u003e response = client.send(request, HttpResponse.BodyHandlers.ofString());\nSystem.out.println(response.body());"}]} /--><!-- wp:heading -->
 <h2 class="wp-block-heading">Response</h2>
-<!-- /wp:heading --><!-- wp:betterdocs/code-snippet-tab {"responses":[{"status":"201","language":"json","codeContent":"{\n    \u0022name\u0022: \u0022Mochi\u0022,\n    \u0022tag\u0022: \u0022cat\u0022,\n    \u0022id\u0022: 1\n}"},{"status":"422","language":"json","codeContent":"{\n    \u0022code\u0022: 1,\n    \u0022message\u0022: \u0022string\u0022,\n    \u0022fields\u0022: [\n        \u0022string\u0022\n    ]\n}"}],"showCopyButton":true,"showLineNumbers":false,"theme":"light"} /-->
+<!-- /wp:heading --><!-- wp:code -->
+<pre class="wp-block-code"><code>201
+{
+    &quot;name&quot;: &quot;Mochi&quot;,
+    &quot;tag&quot;: &quot;cat&quot;,
+    &quot;id&quot;: 1
+}</code></pre>
+
+<pre class="wp-block-code"><code>422
+{
+    &quot;code&quot;: 1,
+    &quot;message&quot;: &quot;string&quot;,
+    &quot;fields&quot;: [
+        &quot;string&quot;
+    ]
+}</code></pre>
+<!-- /wp:code -->
