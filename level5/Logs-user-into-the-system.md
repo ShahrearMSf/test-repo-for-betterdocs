@@ -1,6 +1,6 @@
 <h1>Logs user into the system.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"get","path":"/user/login","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"get","path":"/user/login","refId":7886} /--><!-- wp:paragraph -->
 <p>Log into the system.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Query Parameters</h2>
