@@ -1,6 +1,6 @@
 <h1>Place an order for a pet.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"post","path":"/store/order","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"post","path":"/store/order","refId":7886} /--><!-- wp:paragraph -->
 <p>Place a new order in the store.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Request Body</h2>
