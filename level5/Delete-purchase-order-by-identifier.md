@@ -1,6 +1,6 @@
 <h1>Delete purchase order by identifier.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"delete","path":"/store/order/{orderId}","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"delete","path":"/store/order/{orderId}","refId":7886} /--><!-- wp:paragraph -->
 <p>For valid response try integer IDs with value &lt; 1000. Anything above 1000 or non-integers will generate API errors.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Path Parameters</h2>
