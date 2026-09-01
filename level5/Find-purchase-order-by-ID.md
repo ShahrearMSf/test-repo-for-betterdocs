@@ -1,6 +1,6 @@
 <h1>Find purchase order by ID.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"get","path":"/store/order/{orderId}","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"get","path":"/store/order/{orderId}","refId":7886} /--><!-- wp:paragraph -->
 <p>For valid response try integer IDs with value &lt;= 5 or &gt; 10. Other values will generate exceptions.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Path Parameters</h2>
