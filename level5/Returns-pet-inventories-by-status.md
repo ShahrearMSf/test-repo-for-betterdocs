@@ -1,6 +1,6 @@
 <h1>Returns pet inventories by status.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"get","path":"/store/inventory","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"get","path":"/store/inventory","refId":7886} /--><!-- wp:paragraph -->
 <p>Returns a map of status codes to quantities.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Responses</h2>
