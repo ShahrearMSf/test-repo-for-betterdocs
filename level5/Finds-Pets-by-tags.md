@@ -1,6 +1,6 @@
 <h1>Finds Pets by tags.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"get","path":"/pet/findByTags","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"get","path":"/pet/findByTags","refId":7886} /--><!-- wp:paragraph -->
 <p>Multiple tags can be provided with comma separated strings. Use tag1, tag2, tag3 for testing.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Query Parameters</h2>
