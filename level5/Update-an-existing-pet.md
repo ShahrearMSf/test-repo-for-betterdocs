@@ -1,6 +1,6 @@
 <h1>Update an existing pet.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"put","path":"/pet","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"put","path":"/pet","refId":7886} /--><!-- wp:paragraph -->
 <p>Update an existing pet by Id.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Request Body</h2>
