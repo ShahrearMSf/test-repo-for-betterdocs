@@ -1,6 +1,6 @@
 <h1>Get user by user name.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"get","path":"/user/{username}","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"get","path":"/user/{username}","refId":7886} /--><!-- wp:paragraph -->
 <p>Get user detail based on username.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Path Parameters</h2>
