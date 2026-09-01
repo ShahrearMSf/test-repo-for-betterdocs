@@ -1,6 +1,6 @@
 <h1>Logs out current logged in user session.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"get","path":"/user/logout","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"get","path":"/user/logout","refId":7886} /--><!-- wp:paragraph -->
 <p>Log user out of the system.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Responses</h2>
