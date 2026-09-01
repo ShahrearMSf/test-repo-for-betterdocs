@@ -1,6 +1,6 @@
 <h1>Uploads an image.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"post","path":"/pet/{petId}/uploadImage","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"post","path":"/pet/{petId}/uploadImage","refId":7886} /--><!-- wp:paragraph -->
 <p>Upload image of the pet.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Path Parameters</h2>
