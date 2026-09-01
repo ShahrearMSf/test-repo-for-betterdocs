@@ -1,6 +1,6 @@
 <h1>Deletes a pet.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"delete","path":"/pet/{petId}","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"delete","path":"/pet/{petId}","refId":7886} /--><!-- wp:paragraph -->
 <p>Delete a pet.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Path Parameters</h2>
