@@ -1,6 +1,6 @@
 <h1>Add a new pet to the store.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"post","path":"/pet","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"post","path":"/pet","refId":7886} /--><!-- wp:paragraph -->
 <p>Add a new pet to the store.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Request Body</h2>
