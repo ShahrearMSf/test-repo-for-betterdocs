@@ -1,6 +1,6 @@
 <h1>Updates a pet in the store with form data.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"post","path":"/pet/{petId}","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"post","path":"/pet/{petId}","refId":7886} /--><!-- wp:paragraph -->
 <p>Updates a pet resource based on the form data.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Path Parameters</h2>
