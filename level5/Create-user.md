@@ -1,6 +1,6 @@
 <h1>Create user.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"post","path":"/user","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"post","path":"/user","refId":7886} /--><!-- wp:paragraph -->
 <p>This can only be done by the logged in user.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Request Body</h2>
