@@ -1,6 +1,6 @@
 <h1>Finds Pets by status.</h1>
 
-<!-- wp:betterdocs/api-tryit {"method":"get","path":"/pet/findByStatus","refId":7688} /--><!-- wp:paragraph -->
+<!-- wp:betterdocs/api-tryit {"method":"get","path":"/pet/findByStatus","refId":7886} /--><!-- wp:paragraph -->
 <p>Multiple status values can be provided with comma separated strings.</p>
 <!-- /wp:paragraph --><!-- wp:heading -->
 <h2 class="wp-block-heading">Query Parameters</h2>
